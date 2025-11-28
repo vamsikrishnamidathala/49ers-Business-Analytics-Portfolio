@@ -14,7 +14,7 @@ To move beyond standard box-score statistics and utilize advanced metrics like E
     * Isolated top plays by WPA to identify highest-emotion marketing moments.
 
 ### Key Deliverables
-1.  **[Link to your One-Pager PDF here]**: A summary document containing visualizations and strategic business recommendations.
+1.  **https://github.com/vamsikrishnamidathala/49ers-Business-Analytics-Portfolio/blob/38cde06eda91795f8189a1cef695f16a0509162a/Business_insights.pdf**: A summary document containing visualizations and strategic business recommendations.
 2.  **Python Analysis Script**: The source code used for data extraction, cleaning, and visualization (available in this repository).
 
 ### Visual Insight
